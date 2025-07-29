@@ -19,7 +19,7 @@ Transformar uma base de dados brutos, em um dashboard visual interativo, com gr
 
 ✓ Baixe o arquivo Excel deste repositório.
 
-✓ Abra o arquivo dashboard_xbox_finalizado.xlsx, no Excel (versão 2016 ou superior)
+✓ Abra o arquivo no Excel.
 
 ✓ Navegue entre os filtros e observe os indicadores.
 
